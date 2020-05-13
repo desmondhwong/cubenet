@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="v" format="2">
+  <advance width="900"/>
+  <unicode hex="0076"/>
+  <outline>
+    <component base="seven" xScale="0" xyScale="1" yxScale="1" yScale="0" xOffset="200"/>
+    <component base="seven" xScale="0" xyScale="-1" yxScale="-1" yScale="0" xOffset="700" yOffset="900"/>
+    <component base="seven" xScale="-1" xOffset="900" yOffset="200"/>
+    <component base="seven" yScale="-1" yOffset="700"/>
+  </outline>
+</glyph>

@@ -1,0 +1,17 @@
+feature liga {
+    sub one one by c11;
+    sub one zero zero by c100;
+    sub one one zero by c110;
+    sub one one one by c111;
+    sub one one one one by c1111;
+    sub one one one one one by c11111;
+    sub one one one one one one by c111111;
+    sub one one one one one one one by c1111111;
+    sub one one one one one one one one by c11111111;
+    sub one one one one one one one one one by c111111111;
+    sub one one one one one one nine nine nine by c111111999;
+    sub three one four one five nine two six five by c314159265;
+    sub three one four one five nine two six five three five by c31415926535897932384626433832795028841971693993751058209749445;
+    sub nine nine nine one one one one one one by c999111111;
+    sub nine nine nine nine nine nine nine nine nine by c999999999; 
+} liga;

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="t" format="2">
+  <advance width="900"/>
+  <unicode hex="0074"/>
+  <outline>
+    <component base="grave" xOffset="500" yOffset="400"/>
+    <component base="grave" xOffset="200"/>
+    <component base="grave" xScale="0" xyScale="1" yxScale="-1" yScale="0" xOffset="900" yOffset="200"/>
+    <component base="grave" xScale="0" xyScale="-1" yxScale="1" yScale="0" yOffset="700"/>
+  </outline>
+</glyph>

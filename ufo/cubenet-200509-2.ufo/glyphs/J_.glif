@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="J" format="2">
+  <advance width="900"/>
+  <unicode hex="004A"/>
+  <outline>
+    <component base="zero" xScale="-1" yScale="-1" xOffset="600" yOffset="900"/>
+    <component base="zero" xOffset="300"/>
+    <component base="zero" xScale="0" xyScale="1" yxScale="-1" yScale="0" xOffset="900" yOffset="300"/>
+    <component base="zero" xScale="0" xyScale="-1" yxScale="1" yScale="0" yOffset="600"/>
+  </outline>
+</glyph>

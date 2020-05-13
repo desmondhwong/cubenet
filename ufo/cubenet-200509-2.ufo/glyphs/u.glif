@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u" format="2">
+  <advance width="900"/>
+  <unicode hex="0075"/>
+  <outline>
+    <component base="seven" xScale="0" xyScale="1" yxScale="1" yScale="0" xOffset="300"/>
+    <component base="seven" xScale="0" xyScale="-1" yxScale="-1" yScale="0" xOffset="600" yOffset="900"/>
+    <component base="seven" xScale="-1" xOffset="900" yOffset="300"/>
+    <component base="seven" yScale="-1" yOffset="600"/>
+  </outline>
+</glyph>
